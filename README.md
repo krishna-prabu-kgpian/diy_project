@@ -10,5 +10,5 @@ This project automates the **segregation of waste** using **image analysis** wit
 ## Getting Started 🚀
 
 ### Prerequisites 📋
-1. **Python 3.12+
-2. **pip install -r requirements.txt
+1. Python 3.12+
+2. pip install -r requirements.txt
